@@ -113,7 +113,7 @@ LICENSE file.
     <module>jdbc</module>
     <!--<module>mapkeeper</module>-->
     <module>mongodb</module>
-    <!--module>nosqldb</module-->
+    <module>nosqldb</module>
     <module>orientdb</module>
     <module>redis</module>
     <module>tarantool</module>
